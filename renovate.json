@@ -3,6 +3,7 @@
   "kubernetes": {
     "fileMatch": ["\\.yaml$"]
   },
+  "includeForks": true
   "regexManagers": [
     {
       "fileMatch": ["\\.yaml$"],
